@@ -1,0 +1,72 @@
+﻿生成启动时间为 2019/4/20 15:21:56。
+     1>项目“C:\!soccor\Skill2\Skill2\shoot\shoot\myskill\myskill.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Visual Studio 2013\VC\bin\CL.exe /c /I"C:\!soccor\Skill2\Skill2\shoot\shoot\worldmodel_lib" /AI"C:\!soccor\Skill2\Skill2\shoot\shoot\worldmodel_lib" /AI"C:\Users\gavin\Documents\Visual Studio 2013\Projects\myskill\worldmodel_lib" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MYSKILL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\myskill.cpp src\utils\maths.cpp
+         maths.cpp
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\vector.h(662): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(3): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(4): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(5): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(6): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(7): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(8): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(9): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(10): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(11): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(12): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(13): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(14): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(15): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(16): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(17): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(18): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(28): warning C4305: “-=”: 从“double”到“float”截断
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(30): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(40): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(48): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(92): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(93): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\util.h(119): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+                 c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(59): 参见对正在编译的函数 模板 实例化“real angle_mod<num>(real)”的引用
+                 with
+                 [
+                     real=float
+         ,            num=float
+                 ]
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\vector.h(513): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+                 c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\maths.cpp(125): 参见对正在编译的函数 模板 实例化“vector Vector::point_on_segment<point2f>(const vector,const vector,const vector,bool)”的引用
+                 with
+                 [
+                     vector=point2f
+                 ]
+         myskill.cpp
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\vector.h(662): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\game_state.h(125): warning C4800: “const int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\game_state.h(129): warning C4800: “const int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\game_state.h(133): warning C4800: “const int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\game_state.h(137): warning C4800: “const int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\game_state.h(141): warning C4800: “const int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\myskill.cpp(4): warning C4190: “player_plan”有指定的 C 链接，但返回了与 C 不兼容的 UDT“PlayerTask”
+                 c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\utils\playertask.h(30) : 参见“PlayerTask”的声明
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\myskill.cpp(36): warning C4305: “初始化”: 从“double”到“const float”截断
+     1>c:\!soccor\skill2\skill2\shoot\shoot\myskill\src\myskill.cpp(38): warning C4305: “初始化”: 从“double”到“const float”截断
+         正在生成代码...
+       Link:
+         C:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\!soccor\Skill2\Skill2\shoot\shoot\Debug\myskill.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\!soccor\Skill2\Skill2\shoot\shoot\worldmodel_lib" /LIBPATH:"C:\Users\gavin\Documents\Visual Studio 2013\Projects\myskill\worldmodel_lib" worldmodel_lib.lib opencv_world343d.lib opencv_world343.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\!soccor\Skill2\Skill2\shoot\shoot\Debug\myskill.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\!soccor\Skill2\Skill2\shoot\shoot\Debug\myskill.lib" /MACHINE:X86 /DLL Debug\myskill.obj
+         Debug\maths.obj
+         worldmodel_lib.lib(worldmodel.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+     1>LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+     1>myskill.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+     1>worldmodel_lib.lib(worldmodel.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(myskill.obj 中)
+     1>worldmodel_lib.lib(worldmodel.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(myskill.obj 中)
+            正在创建库 C:\!soccor\Skill2\Skill2\shoot\shoot\Debug\myskill.lib 和对象 C:\!soccor\Skill2\Skill2\shoot\shoot\Debug\myskill.exp
+     1>LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+     1>C:\!soccor\Skill2\Skill2\shoot\shoot\Debug\myskill.dll : fatal error LNK1319: 检测到 2 个不匹配项
+     1>已完成生成项目“C:\!soccor\Skill2\Skill2\shoot\shoot\myskill\myskill.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.32

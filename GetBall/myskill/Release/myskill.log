@@ -1,0 +1,19 @@
+﻿生成启动时间为 2020/1/16 15:24:19。
+     1>项目“D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\myskill\myskill.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\VS 2013\VS2013\VC\bin\CL.exe /c /I"D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\myskill\/src/worldmodel_lib" /Zi /nologo /W0 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D MYSKILL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\GetBall.cpp src\utils\maths.cpp
+         GetBall.cpp
+         maths.cpp
+       Link:
+         D:\VS 2013\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\Release\myskill.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\myskill\/src/worldmodel_lib" worldmodel_lib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\Release\myskill.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\Release\myskill.lib" /MACHINE:X86 /SAFESEH /DLL Release\GetBall.obj
+         Release\maths.obj
+            正在创建库 D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\Release\myskill.lib 和对象 D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\Release\myskill.exp
+         正在生成代码
+         已完成代码的生成
+     1>worldmodel_lib.lib(worldmodel.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“worldmodel_lib.lib(worldmodel.obj)”或在“D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         myskill.vcxproj -> D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\Release\myskill.dll
+     1>已完成生成项目“D:\Users nanke\足球机器人\4 程序\task改\官方task工程\GetBall\myskill\myskill.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.36
